@@ -89,9 +89,9 @@ layers:
   - {t: ▽, type: trans}
   - F1
   - Sft+←
-  - Sft+→
-  - Sft+↑
   - Sft+↓
+  - Sft+↑
+  - Sft+→
   - F6
   - {t: ▽, type: trans}
   - ←
